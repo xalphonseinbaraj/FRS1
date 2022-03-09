@@ -49,7 +49,7 @@ setup(
 	long_description_content_type="text/markdown",
     author="AlphonseInbarajXavier",
     author_email="xalphonse@gmail.com",
-    url='https://github.com/xalphonseinbaraj/Siamese_Face_Recognition',
+    url='https://github.com/xalphonseinbaraj/FRS1',
 	packages=[
         'FRS1',
     ],
