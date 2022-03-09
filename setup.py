@@ -43,7 +43,7 @@ requirements = [
 # Setting up
 setup(
     name="FRS1",
-    version=0.0.1,
+    version='0.0.1',
 	description='Face Recogition for Siamese(FRS)',
 	long_description=readme,
 	long_description_content_type="text/markdown",
